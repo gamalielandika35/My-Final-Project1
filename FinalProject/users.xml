@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user>
+    <id>2</id>
+    <username>admin</username>
+    <nama_lengkap/>
+    <nim/>
+    <jurusan/>
+    <angkatan/>
+    <role>admin</role>
+    <created_at>2026-04-24 09:15:13</created_at>
+  </user>
+  <user>
+    <id>3</id>
+    <username>event1</username>
+    <nama_lengkap/>
+    <nim/>
+    <jurusan/>
+    <angkatan/>
+    <role>pemegang_event</role>
+    <created_at>2026-04-24 09:15:13</created_at>
+  </user>
+  <user>
+    <id>4</id>
+    <username>andika</username>
+    <nama_lengkap>Hutahaean Andika Putra G</nama_lengkap>
+    <nim>1125052</nim>
+    <jurusan>Informatika</jurusan>
+    <angkatan>2025</angkatan>
+    <role>member</role>
+    <created_at>2026-04-24 18:00:28</created_at>
+  </user>
+  <user>
+    <id>5</id>
+    <username>ophiucus</username>
+    <nama_lengkap>LeeGun</nama_lengkap>
+    <nim>1325052</nim>
+    <jurusan>MANAJEMEN</jurusan>
+    <angkatan>2029</angkatan>
+    <role>member</role>
+    <created_at>2026-04-26 16:26:19</created_at>
+  </user>
+  <user>
+    <id>6</id>
+    <username>ukm1</username>
+    <nama_lengkap>Liong Stve</nama_lengkap>
+    <nim>1125026</nim>
+    <jurusan>Teknik Informatika</jurusan>
+    <angkatan>2025</angkatan>
+    <role>pemegang_ukm</role>
+    <created_at>2026-04-26 22:19:21</created_at>
+  </user>
+  <user>
+    <id>8</id>
+    <username>Hutah</username>
+    <nama_lengkap>APGH</nama_lengkap>
+    <nim>1125062</nim>
+    <jurusan>Teknik Informatika</jurusan>
+    <angkatan>2025</angkatan>
+    <role>pemegang_ukm</role>
+    <created_at>2026-04-26 22:23:21</created_at>
+  </user>
+  <user>
+    <id>9</id>
+    <username>Willy</username>
+    <nama_lengkap>Jeremias William</nama_lengkap>
+    <nim>1125029</nim>
+    <jurusan>Informatika</jurusan>
+    <angkatan>2025</angkatan>
+    <role>member</role>
+    <created_at>2026-04-27 11:05:47</created_at>
+  </user>
+  <user>
+    <id>10</id>
+    <username>dadadaaadad</username>
+    <nama_lengkap>anjayani</nama_lengkap>
+    <nim>11312313</nim>
+    <jurusan>akuntansi</jurusan>
+    <angkatan>2026</angkatan>
+    <role>member</role>
+    <created_at>2026-04-27 11:08:38</created_at>
+  </user>
+  <user>
+    <id>11</id>
+    <username>daddadadadadad</username>
+    <nama_lengkap>fafkjfgjdfgjgdf</nama_lengkap>
+    <nim>dsfvjnk vdsfjkvsj</nim>
+    <jurusan>dskmoldsvkmodsv</jurusan>
+    <angkatan>2025</angkatan>
+    <role>member</role>
+    <created_at>2026-04-27 11:10:58</created_at>
+  </user>
+  <user>
+    <id>12</id>
+    <username>3r43t43t43t4t34</username>
+    <nama_lengkap>etregergetrger</nama_lengkap>
+    <nim>454245</nim>
+    <jurusan>MANAJEMEN</jurusan>
+    <angkatan>2025</angkatan>
+    <role>member</role>
+    <created_at>2026-04-27 11:11:59</created_at>
+  </user>
+</users>
